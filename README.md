@@ -1,6 +1,6 @@
 # wiki_classic_cars
 <div align="center">
-   <img src="[https://th.bing.com/th/id/OIG1.jbgAoXgE48btYgnxyMGz?pid=ImgGn](https://drive.google.com/file/d/1-Y7_3o2kvE4fjcr5fzK90vNp2fBOjD6v/view?usp=sharing)"   width= 450 height=450 >
+   <img src="https://th.bing.com/th/id/OIG1.jbgAoXgE48btYgnxyMGz?pid=ImgGn https://drive.google.com/file/d/1-Y7_3o2kvE4fjcr5fzK90vNp2fBOjD6v/view?usp=sharing"   width= 450 height=450 >
 </div>
 
 # wiki-classic-cars
