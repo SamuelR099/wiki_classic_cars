@@ -1,9 +1,7 @@
 # wiki_classic_cars
-<a href="https://ibb.co/zbKQMyd">
-  <img src="https://i.ibb.co/bLpQ0St/9982625e-d4bd-4d69-bee8-40754bf5f345.jpg" 
-       alt="9982625e-d4bd-4d69-bee8-40754bf5f345" 
-       width="50%">
-</a>
+<div align="center">
+<a href="https://ibb.co/yVc5FmX"><img src="https://i.ibb.co/3k9Wm57/Foto.jpg" alt="Foto" border="0"></a>
+</div>
 
 # wiki-classic-cars
 Wiki classic cars es una enciclopedia de vehiculos clasicos en donde encontraras un breve resumen de los vehiculos del siglo pasado y actual, con el fin de que conozcas la metamorfosis de estas maquinas para poder llegar a los pura sangre de hoy en dia.
