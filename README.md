@@ -1,6 +1,6 @@
 # wiki_classic_cars
 <div align="center">
-<a href="https://ibb.co/yVc5FmX"><img src="https://i.ibb.co/3k9Wm57/Foto.jpg" alt="Foto" border="0"></a>
+<a href="https://ibb.co/yVc5FmX"><img src="https://i.ibb.co/3k9Wm57/Foto.jpg" alt="Foto" border="0"width="50%"></a>
 </div>
 
 # wiki-classic-cars
