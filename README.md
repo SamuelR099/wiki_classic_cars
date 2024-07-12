@@ -4,7 +4,7 @@
 </div>
 
 ## Wiki-Classic-Cars
-Wiki classic cars es una enciclopedia de vehiculos clasicos en donde encontraras un breve resumen de los vehiculos del siglo pasado y actual, con el fin de que conozcas la metamorfosis de estas maquinas para poder llegar a los pura sangre de hoy en dia.
+Wiki classic cars es una enciclopedia de vehiculos clasicos en donde encontraras un breve resumen de los vehiculos del siglo pasado y actual, con el fin de que conozcas la metamorfosis de estas maquinas para poder llegar a los pura sangre de hoy en dia. Este proyecto se desarrollo en el software Dev C++ con el lenguaje de programacion C++.
 
 ## Como Ejecutarlo
 - Dentro de la carpeta Wiki se encontrara el codigo del proyecto con el nombre de main.cpp en la cual podras descargar.
